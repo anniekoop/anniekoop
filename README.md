@@ -1,5 +1,6 @@
 # Nice to meet you! 🤗
-<b>I'm Annie, a product designer from Salt Lake City.</b> I build experiences that delight users and solutions that benefit brand development.
+## I'm Annie, a product designer from Salt Lake City.
+I build <b>experiences</b> that delight users and <b>solutions</b> that benefit brand development.
 
 I’m currently working on [VS Code Color Themes](https://github.com/anniekoop/abk-color-theme.git)
 
