@@ -1,6 +1,6 @@
 # Nice to meet you! 🤗
 ## I'm Annie, a product designer from Salt Lake City.
-<p style="color: #555">I build <b>experiences</b> that delight users and <b>solutions</b> that benefit brand development.</p>
+<p style="color: #555">I build <b style="color: black">experiences</b> that delight users and <b>solutions</b> that benefit brand development.</p>
 
 I’m currently working on [VS Code Color Themes](https://github.com/anniekoop/abk-color-theme.git)
 
