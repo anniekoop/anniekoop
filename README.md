@@ -2,13 +2,13 @@
 ## I'm Annie, a product designer from Salt Lake City.
 <p style="color: #555">I build <b style="color: black">experiences</b> that delight users and <b>solutions</b> that benefit brand development.</p><br>
 
-I’m currently working on [VS Code Color Themes](https://github.com/anniekoop/abk-color-theme.git)
+<em>I’m currently working on [VS Code Color Themes](https://github.com/anniekoop/abk-color-theme.git)
 
 All of my projects are available at [https://anniekoopdesign.com/](https://anniekoopdesign.com/)
 
 Get in touch at anniebkoop@gmail.com
 
-View my resume at [read.cv/anniekoop](https://read.cv/anniekoop)
+View my resume at [read.cv/anniekoop](https://read.cv/anniekoop)</em>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
